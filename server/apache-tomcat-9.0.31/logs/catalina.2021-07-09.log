@@ -1,0 +1,43 @@
+09-Jul-2021 16:56:35.115 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:     Apache Tomcat/9.0.31
+09-Jul-2021 16:56:35.118 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:            Feb 5 2020 19:32:12 UTC
+09-Jul-2021 16:56:35.118 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(：9.0.31.0
+09-Jul-2021 16:56:35.118 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:               10.0
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:                  amd64
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:         C:\Program Files\Java\jdk1.8.0_112\jre
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:              1.8.0_112-b15
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31
+09-Jul-2021 16:56:35.119 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\conf\logging.properties
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\temp
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+09-Jul-2021 16:56:35.120 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09-Jul-2021 16:56:35.121 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jul-2021 16:56:35.126 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+09-Jul-2021 16:56:35.380 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+09-Jul-2021 16:56:35.999 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[1,077]毫秒内初始化
+09-Jul-2021 16:56:36.028 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Jul-2021 16:56:36.028 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.31]
+09-Jul-2021 16:56:36.039 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\docs]
+09-Jul-2021 16:56:36.279 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\docs] has finished in [240] ms
+09-Jul-2021 16:56:36.280 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\examples]
+09-Jul-2021 16:56:36.891 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\examples] has finished in [611] ms
+09-Jul-2021 16:56:36.892 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\firstapp]
+09-Jul-2021 16:56:36.933 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\firstapp] has finished in [41] ms
+09-Jul-2021 16:56:36.934 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\host-manager]
+09-Jul-2021 16:56:36.990 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\host-manager] has finished in [57] ms
+09-Jul-2021 16:56:36.991 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\jspweb]
+09-Jul-2021 16:56:37.026 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\jspweb] has finished in [35] ms
+09-Jul-2021 16:56:37.026 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\manager]
+09-Jul-2021 16:56:37.065 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\manager] has finished in [39] ms
+09-Jul-2021 16:56:37.066 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\ROOT]
+09-Jul-2021 16:56:37.107 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Mr.Wind\OneDrive - 四川大学锦城学院\Project\Project01\server\apache-tomcat-9.0.31\webapps\ROOT] has finished in [41] ms
+09-Jul-2021 16:56:37.110 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+09-Jul-2021 16:56:37.119 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [1,120] milliseconds
